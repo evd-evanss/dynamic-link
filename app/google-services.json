@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912190049431",
+    "firebase_url": "https://teste-dfc6d.firebaseio.com",
+    "project_id": "teste-dfc6d",
+    "storage_bucket": "teste-dfc6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912190049431:android:85ff3d9b58948119bdadd2",
+        "android_client_info": {
+          "package_name": "com.sugarspoon.deeplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912190049431-qulc367se7t5mqvvcgdgv1hjd24ffv9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2S0xwhsWhPW0ABXW_Ke3aJPuYE5OgcZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912190049431-hb3ohshsne44gbr2e2tev8psem5roesp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
